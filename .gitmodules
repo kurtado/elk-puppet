@@ -1,0 +1,3 @@
+[submodule "modules/puppet-elasticsearch-package-repos"]
+	path = modules/puppet-elasticsearch-package-repos
+	url = https://github.com/kurtado/puppet-elasticsearch-package-repos
